@@ -27,13 +27,13 @@ Ye table har raat hamare server se **apne aap update** hota hai. Har trade ki po
 |---|---|---|---|---|---|
 | **Combo factor (swing)**<br><sub>Momentum + 52-week high + low volatility, top 20 stocks, har 20 din rebalance</sub> | 29 Oct 2026 | ₹10,77,397 | 🟢 +₹77,397 (+7.74%) | +5.22% | -₹6,963 (23 Nov) |
 | **ML v3 (swing)**<br><sub>LightGBM ensemble, top 20 stocks, har 20 din rebalance</sub> | 30 Oct 2026 | ₹10,43,483 | 🟢 +₹43,483 (+4.35%) | +5.83% | -₹9,131 (23 Nov) |
-| **ML v7 (swing)**<br><sub>ML + sector/macro features, top 20 stocks, risk rules</sub> | 30 Oct 2026 | ₹10,56,613 | 🟢 +₹56,613 (+5.66%) | +6.60% | +₹5,490 (20 Nov) |
-| **Iron condor (Nifty)**<br><sub>Nifty weekly options, far wings, stop loss 2x</sub> | 02 Nov 2026 | ₹3,02,242 | 🟢 +₹2,242 (+0.75%) | — | +₹0 (20 Nov) |
+| **ML v7 (swing)**<br><sub>ML + sector/macro features, top 20 stocks, risk rules</sub> | 30 Oct 2026 | ₹10,47,292 | 🟢 +₹47,292 (+4.73%) | +5.45% | -₹9,321 (23 Nov) |
+| **Iron condor (Nifty)**<br><sub>Nifty weekly options, far wings, stop loss 2x</sub> | 02 Nov 2026 | ₹3,02,242 | 🟢 +₹2,242 (+0.75%) | — | +₹0 (23 Nov) |
 | **Intraday v2**<br><sub>9:30 entry, 3:00 PM exit, 2 long + 2 short stocks</sub> | 11 Nov 2026 | ₹1,93,468 | 🔴 -₹6,532 (-3.27%) | — | -₹5,676 (23 Nov) |
 | **Challenger c20261112**<br><sub>Intraday v2 jaisa, har mahine retrain</sub> | 12 Nov 2026 | ₹1,96,824 | 🔴 -₹3,176 (-1.59%) | — | -₹1,823 (23 Nov) |
 | **Nifty Agent (options)**<br><sub>Nifty/BankNifty option buying, kai arms, AI news filter</sub> | 30 Oct 2026 | ₹72,664 | 🟢 +₹22,664 (+45.33%) | — | +₹17,296 (20 Nov) |
 
-**Sab models milakar, shuru se: +₹1,92,691**
+**Sab models milakar, shuru se: +₹1,83,370**
 
 <sub>Data: 23 Nov 2026 tak · Paper trading, asli paisa nahi</sub>
 <!--/RESULTS-->
