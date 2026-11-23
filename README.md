@@ -29,13 +29,13 @@ Ye table har raat hamare server se **apne aap update** hota hai. Har trade ki po
 | **ML v3 (swing)**<br><sub>LightGBM ensemble, top 20 stocks, har 20 din rebalance</sub> | 30 Oct 2026 | ₹10,52,614 | 🟢 +₹52,614 (+5.26%) | +6.98% | -₹3,458 (20 Nov) |
 | **ML v7 (swing)**<br><sub>ML + sector/macro features, top 20 stocks, risk rules</sub> | 30 Oct 2026 | ₹10,56,613 | 🟢 +₹56,613 (+5.66%) | +6.60% | +₹5,490 (20 Nov) |
 | **Iron condor (Nifty)**<br><sub>Nifty weekly options, far wings, stop loss 2x</sub> | 02 Nov 2026 | ₹3,02,242 | 🟢 +₹2,242 (+0.75%) | — | +₹0 (20 Nov) |
-| **Intraday v2**<br><sub>9:30 entry, 3:00 PM exit, 2 long + 2 short stocks</sub> | 11 Nov 2026 | ₹1,99,144 | 🔴 -₹856 (-0.43%) | — | +₹458 (20 Nov) |
+| **Intraday v2**<br><sub>9:30 entry, 3:00 PM exit, 2 long + 2 short stocks</sub> | 11 Nov 2026 | ₹1,93,468 | 🔴 -₹6,532 (-3.27%) | — | -₹5,676 (23 Nov) |
 | **Challenger c20261112**<br><sub>Intraday v2 jaisa, har mahine retrain</sub> | 12 Nov 2026 | ₹1,98,647 | 🔴 -₹1,353 (-0.68%) | — | -₹491 (20 Nov) |
 | **Nifty Agent (options)**<br><sub>Nifty/BankNifty option buying, kai arms, AI news filter</sub> | 30 Oct 2026 | ₹72,664 | 🟢 +₹22,664 (+45.33%) | — | +₹17,296 (20 Nov) |
 
-**Sab models milakar, shuru se: +₹2,16,284**
+**Sab models milakar, shuru se: +₹2,10,608**
 
-<sub>Data: 20 Nov 2026 tak · Paper trading, asli paisa nahi</sub>
+<sub>Data: 23 Nov 2026 tak · Paper trading, asli paisa nahi</sub>
 <!--/RESULTS-->
 
 **Benchmark** ka matlab hai unhi stocks mein barabar paisa lagakar baithe rehna. Model tabhi kaam ka hai jab wo cost ke baad benchmark ko hara sake.
