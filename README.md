@@ -77,6 +77,7 @@ Naye lessons aur research notes pehle [Telegram channel](https://t.me/ZettaQuant
 ## 🤝 Judiye
 
 - 📢 **Channel:** [t.me/ZettaQuant](https://t.me/ZettaQuant): trade results, daily model reports, weekly report, lessons
+- 🌐 **Website:** [quant.zettasphere.in](https://quant.zettasphere.in): live results ek page par
 - 🤖 **Bot:** [@ZettaQuantBot](https://t.me/ZettaQuantBot?start=github): account, lessons, research notes, support
 - ⭐ Ye repo useful laga to **Star** kar dijiye, taaki aur log bhi dekh sakein.
 
